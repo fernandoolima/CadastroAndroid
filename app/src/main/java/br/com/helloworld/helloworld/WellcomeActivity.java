@@ -13,6 +13,8 @@ import java.util.HashMap;
 
 public class WellcomeActivity extends AppCompatActivity {
 
+    //teste alteração git
+
     TextView lblNomeUser;
 
     SharedPreferences sharedPreferences;
